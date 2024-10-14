@@ -1,3 +1,8 @@
+#### Name: Vanshika
+-Place: India
+-Bio: 1st year CS student
+-Github: [vsh1h]
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
